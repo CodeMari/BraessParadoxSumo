@@ -6,5 +6,5 @@ Run sumo configuration file in terminal with this command: sumo-gui bp1.sumocfg
 
 
 
-Run sumo configuration file in terminal with this command : bp2.sumocfg 
+Run sumo configuration file in terminal with this command: bp2.sumocfg 
 ![run2](images/bp2.png)
