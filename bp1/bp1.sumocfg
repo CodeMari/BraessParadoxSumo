@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <input>
+        <net-file value ="bp1.net.xml"/>
+        <route-files value ="rou1.rou.xml"/>
+    </input>
+    <output>
+        <netstate-dump value ="dump_bp1_gen.xml"/>
+        <emission-output value ="emission_bp1_gen.xml"/>
+        <tripinfo-output value="trip1.xml"/>
+    </output>
+    <time>
+    <begin value = "0"/>
+    <end value = "100"/>
+    </time>
+
+</configuration>
+
+
+
