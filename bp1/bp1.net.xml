@@ -4,7 +4,7 @@
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
 
     <output>
-        <output-file value="/Users/MariiMar/Downloads/sys_model/BraessParadox/G2/bp1.net.xml"/>
+        <output-file value="/folderlocation/bp1.net.xml"/>
     </output>
 
     <processing>
